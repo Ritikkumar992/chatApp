@@ -1,4 +1,4 @@
-# LetsChat
+# Chat App
 LetsChat is a Sample Messaging Android application built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Dagger-Hilt, Architecture Components, MVVM, Room, Coil) and Firebase
 
 - Create a firebase project and replace the google-services.json file which you get from your firebase project console
